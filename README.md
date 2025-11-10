@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Reha 👋
 
-<!--
-**rmake001/rmake001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science student | Aspiring Full-Stack Developer  
+🎨 I love building creative, interactive web apps and projects  
+🏆 1st Place — HackLife 2025 for LocalLoop  
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning
+React & Node.js • Advanced Python & Flask  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+Python • HTML • CSS • JavaScript • Git/GitHub • VS Code • Figma • Arduino
+
+### 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/reha-maken-70460a394/) • rehamaken@icloud.com
