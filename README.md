@@ -5,7 +5,7 @@
 🏆 1st Place — HackLife 2025 for LocalLoop  
 
 ### 🌱 Currently Learning
-React & Node.js • Advanced Python & Flask  
+Advanced Python & Flask  
 
 ### 🛠️ Tech Stack
 Python • HTML • CSS • JavaScript • Git/GitHub • VS Code • Figma • Arduino
