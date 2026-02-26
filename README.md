@@ -5,10 +5,10 @@
 🏆 1st Place — HackLife 2025 for LocalLoop  
 
 ### 🌱 Currently Learning
-Advanced Python & Flask  
+Advanced Python & Godot
 
 ### 🛠️ Tech Stack
-Python • HTML • CSS • JavaScript • Git/GitHub • VS Code • Figma • Arduino
+Python • HTML • CSS • JavaScript • Git/GitHub • VS Code • Figma • Arduino • Godot
 
 ### 📫 Connect with me
 [LinkedIn](https://www.linkedin.com/in/reha-maken-70460a394/) • rehamaken@icloud.com
